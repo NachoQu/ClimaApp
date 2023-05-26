@@ -16,6 +16,7 @@ Este repositorio contiene una aplicación web del tiempo que te permite obtener 
 - HTML
 - CSS (Bootstrap)
 - JavaScript (con el uso de la biblioteca Axios para realizar solicitudes a la API del clima)
+- API: https://openweathermap.org/api
 
 ## Cómo utilizar
 
