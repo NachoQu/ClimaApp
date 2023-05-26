@@ -4,10 +4,10 @@
 
 Este repositorio contiene una aplicación web del tiempo que te permite obtener información meteorológica actual y ver el historial de búsquedas anteriores.
 
+Como se ve en formato video: https://drive.google.com/file/d/1uezH-5RPJLq5l6so1sRUsXFPOqAsI6f3/view?usp=drive_link
 ## Características
 
 - Permite buscar el clima actual de una ciudad específica.
-- Muestra información detallada, como la temperatura, la descripción del clima, la velocidad del viento, la humedad, el amanecer y el atardecer, y la calidad del aire.
 - Guarda automáticamente las búsquedas anteriores y las muestra en una tabla.
 - Proporciona una interfaz fácil de usar y receptiva.
 
