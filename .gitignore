@@ -1,0 +1,4 @@
+# Archivos y directorios a ignorar
+node_modules/
+build/
+dist/
